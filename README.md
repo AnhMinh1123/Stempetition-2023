@@ -1,5 +1,4 @@
 # TechCare Project - FPT Stempetition Da Nang 2023
---
 
 **TechCare** is an Artificial Intelligence (AI) powered project in the healthcare domain, developed with the vision of alleviating the burden on hospitals and medical facilities, particularly in the context of staff shortages and increasing patient overload.
 
