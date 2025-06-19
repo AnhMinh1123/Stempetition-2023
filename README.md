@@ -1,6 +1,6 @@
 # FPT Stempetition
 
-## About the TechCare Project
+##About TechCare
 
 **TechCare** is an Artificial Intelligence (AI) powered project in the healthcare domain, developed with the vision of alleviating the burden on hospitals and medical facilities, particularly in the context of staff shortages and increasing patient overload.
 
@@ -25,9 +25,7 @@ TechCare is built upon the following foundation:
 * **Model Persistence:** Pickle (for saving and loading the trained machine learning model)
 
 **Key Features:**
-* User-friendly interface allowing patients to easily input symptoms and relevant information.
 * AI system processes and analyzes data to provide screening results.
 * Offers preliminary diagnoses for mild conditions based on provided characteristics.
-* Provides recommendations for next steps (e.g., rest, over-the-counter medication, or a recommendation to see a doctor if necessary).
 
 TechCare does not aim to completely replace the role of medical professionals but serves as a powerful assistive tool, helping to ease the burden on the healthcare system and empowering individuals to manage their personal health more actively and efficiently.
