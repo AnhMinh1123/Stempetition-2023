@@ -1,4 +1,8 @@
-# TechCare Project - FPT Stempetition Da Nang 2023
+# TechCare Project - FPT STEMPetition Da Nang 2023
+
+Intro
+
+Fschools STEMPetition 2023 was an annual science and technology competition for FPT Schools students nationwide, themed "Innovations change the world." It aimed to ignite curiosity, inspire STEM exploration, and foster self-learning skills. The competition featured Scientific Research and Engineering Technology categories, where teams presented ideas via research-standard posters. TechCare was honored to reach the National Finals in Da Nang, a valuable experience for learning and competing with other talented STEM students.
 
 **TechCare** is an Artificial Intelligence (AI) powered project in the healthcare domain, developed with the vision of alleviating the burden on hospitals and medical facilities, particularly in the context of staff shortages and increasing patient overload.
 
